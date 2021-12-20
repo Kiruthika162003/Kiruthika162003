@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kiruthikas2020ai@gmail.com**
 
-- 📄 Checkout my Resume [https://drive.google.com/file/d/1gUGON5jMKVuogJT56yUfvJbveS9QchpI/view?usp=sharing](https://drive.google.com/file/d/1gUGON5jMKVuogJT56yUfvJbveS9QchpI/view?usp=sharing)
+- 📄 Checkout my Resume [https://drive.google.com/file/d/13m0F5qW4ZqzdPFC5B8BrIsDz9fikZ1EB/view?usp=sharing](https://drive.google.com/file/d/13m0F5qW4ZqzdPFC5B8BrIsDz9fikZ1EB/view?usp=sharing)
 
 - ⚡ Roles **Intel Student Ambassador for IOT**
 
