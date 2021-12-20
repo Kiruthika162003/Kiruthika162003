@@ -15,7 +15,7 @@
 
 - 👨‍💻 Here's my portfolio [https://kiruthika162003.github.io/Kiruthika/](https://kiruthika162003.github.io/Kiruthika/)
 
-- 📝 Here's my StartUp Website [https://kiruthika162003.github.io/stepup/](https://kiruthika162003.github.io/stepup/)
+- 📝 Here's my StartUp Website [https://kiruthika162003.github.io/Stepup/](https://kiruthika162003.github.io/Stepup/)
 
 - 💬 Ask me about **python,Data visualization,EDA process.**
 
