@@ -1,29 +1,29 @@
 <h1 align="center">Hello 👋, I'm Kiruthika</h1>
-<h3 align="center">A passionate python Developer and Data Science Enthusiast</h3>
+<h3 align="center">A passionate AI/ML and GCP Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiruthika162003&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthika162003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiruthika162003" alt="kiruthika162003" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Assistant App**
+- 🔭 I’m currently working on **ML Engineer Intern at CloudSide**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning, GCP**
 
-- 👯 I’m looking to collaborate on **play and learn kids Math app**
+- 👯 I’m looking to collaborate on **Making Visual Notes and Meme way learning for ML**
 
-- 🤝 I’m looking for help with **Machine Learning based Medical Test web app**
+- 🤝 I’m looking for help with **MS Application Guidance**
 
 - 👨‍💻 Here's my portfolio [https://kiruthika162003.github.io/Kiruthika/](https://kiruthika162003.github.io/Kiruthika/)
 
 - 📝 Here's my StartUp Website [https://kiruthika162003.github.io/Stepup/](https://kiruthika162003.github.io/Stepup/)
 
-- 💬 Ask me about **python,Data visualization,EDA process.**
+- 💬 Ask me about **GCP, ML, AI.**
 
 - 📫 How to reach me **kiruthikas2020ai@gmail.com**
 
 - 📄 Checkout my Resume [https://drive.google.com/file/d/1Wlva-Mrbw2Nb-gByiWu5G5optyLS7xPD/view?usp=sharing](https://drive.google.com/file/d/1Wlva-Mrbw2Nb-gByiWu5G5optyLS7xPD/view?usp=sharing)
 
-- ⚡ Roles **Intel Student Ambassador for IOT**
+- ⚡ Roles    **Public Speaker** **Writer** **MITACS INTERN** **Intel Student Ambassador for IOT** **GDSC Lead 2022-23** **Deeplearning.Ai Organizer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
