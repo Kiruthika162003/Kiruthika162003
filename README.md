@@ -23,7 +23,7 @@
 
 - 📄 Checkout my Resume [https://drive.google.com/file/d/1Wlva-Mrbw2Nb-gByiWu5G5optyLS7xPD/view?usp=sharing](https://drive.google.com/file/d/1Wlva-Mrbw2Nb-gByiWu5G5optyLS7xPD/view?usp=sharing)
 
-- ⚡ Roles    **Public Speaker** **Writer** **MITACS INTERN** **Intel Student Ambassador for IOT** **GDSC Lead 2022-23** **Deeplearning.Ai Organizer**
+- ⚡ Roles    **Public Speaker**, **Writer**,  **MITACS INTERN**, **Intel Student Ambassador for IOT**, **GDSC Lead 2022-23** **Deeplearning.Ai Organizer**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
