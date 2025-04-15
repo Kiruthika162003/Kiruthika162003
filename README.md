@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kiruthika</h1>
-<h3 align="center">A passionate AI/ML and GCP Enthusiast</h3>
+<h3 align="center">A passionate AI/ML and Cloud Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiruthika162003&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthika162003" /> </p>
 
